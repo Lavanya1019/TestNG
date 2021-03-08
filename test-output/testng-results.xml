@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="FunctionalTeste" duration-ms="52" started-at="2021-02-24T11:30:41 UTC" finished-at="2021-02-24T11:30:41 UTC">
+    <groups>
+    </groups>
+    <test name="parameters" duration-ms="52" started-at="2021-02-24T11:30:41 UTC" finished-at="2021-02-24T11:30:41 UTC">
+      <class name="TestNG_Basics.parameters">
+        <test-method status="PASS" signature="add(int, int)[pri:0, instance:TestNG_Basics.parameters@2b552920]" name="add" duration-ms="10" started-at="2021-02-24T11:30:41 UTC" finished-at="2021-02-24T11:30:41 UTC">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[5]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[5]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- add -->
+      </class> <!-- TestNG_Basics.parameters -->
+    </test> <!-- parameters -->
+  </suite> <!-- FunctionalTeste -->
+</testng-results>
